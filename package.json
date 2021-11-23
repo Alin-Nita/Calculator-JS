@@ -1,0 +1,22 @@
+{
+  "name": "calculator-project-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alin-Nita/Calculator-JS.git"
+  },
+  "author": "Alin Nita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alin-Nita/Calculator-JS/issues"
+  },
+  "homepage": "https://github.com/Alin-Nita/Calculator-JS#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
